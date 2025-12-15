@@ -75,7 +75,8 @@ class Functions {
         }
     }
     void deleteStudentById(){
-
+        String id=sc.nextLine();
+        
     }
 
 }
